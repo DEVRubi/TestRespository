@@ -3,7 +3,7 @@ https://graph.microsoft.com/v1.0/invitations
 
 {
 "invitedUserDisplayName":"Test",
-"invitedUserEmailAddress":"rubi@a1.net",
+"invitedUserEmailAddress":"someone@nowhere.com",
 "sendInvitationMessage":true,
 "inviteRedirectUrl":"https://URLtoSharePointSite",
 "invitedUserType":"Guest"
