@@ -1,0 +1,10 @@
+https://graph.microsoft.com/v1.0/invitations
+
+
+{
+"invitedUserDisplayName":"Test",
+"invitedUserEmailAddress":"rubi@a1.net",
+"sendInvitationMessage":true,
+"inviteRedirectUrl":"https://oerlikongroup.sharepoint.com/sites/spdemo-comm",
+"invitedUserType":"Guest"
+}
